@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:8080/categories.html</loc>
+    <loc>http:/categories.html</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:8080/posts.html</loc>
+    <loc>http:/posts.html</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:8080/tags.html</loc>
+    <loc>http:/tags.html</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:8080/posts/e.html</loc>
+    <loc>http:/posts/asd.html</loc>
   </url>
   
   <url>
-    <loc>http://localhost:8080/</loc>
+    <loc>http:/</loc>
     <priority>0</priority>
   </url>
   
