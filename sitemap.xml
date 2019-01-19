@@ -26,4 +26,8 @@
     <priority>0</priority>
   </url>
   
+  <url>
+    <loc>http:/posts/test.html</loc>
+  </url>
+  
 </urlset>
