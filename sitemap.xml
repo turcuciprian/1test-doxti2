@@ -3,31 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http:/categories.html</loc>
+    <loc>https://turcuciprian.github.io/1-test/posts/test_____.html</loc>
+    <lastmod>2019-01-28T23:08:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turcuciprian.github.io/1-test/posts/ssss.html</loc>
+    <lastmod>2019-01-25T18:23:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turcuciprian.github.io/1-test/categories.html</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http:/posts.html</loc>
+    <loc>https://turcuciprian.github.io/1-test/posts.html</loc>
+    <lastmod>2019-01-28T23:08:20+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http:/tags.html</loc>
+    <loc>https://turcuciprian.github.io/1-test/tags.html</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http:/posts/asd.html</loc>
-  </url>
-  
-  <url>
-    <loc>http:/</loc>
+    <loc>https://turcuciprian.github.io/1-test/</loc>
+    <lastmod>2019-01-28T23:08:20+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http:/posts/test.html</loc>
   </url>
   
 </urlset>

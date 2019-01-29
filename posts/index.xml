@@ -1,30 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on test</title>
-    <link>http:/posts.html</link>
-    <description>Recent content in Posts on test</description>
+    <title>Posts on test2</title>
+    <link>https://turcuciprian.github.io/1-test/posts.html</link>
+    <description>Recent content in Posts on test2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 28 Jan 2019 23:08:20 +0000</lastBuildDate>
     
-	<atom:link href="http:/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://turcuciprian.github.io/1-test/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>asd</title>
-      <link>http:/posts/asd.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>test!@#$%</title>
+      <link>https://turcuciprian.github.io/1-test/posts/test_____.html</link>
+      <pubDate>Mon, 28 Jan 2019 23:08:20 +0000</pubDate>
       
-      <guid>http:/posts/asd.html</guid>
+      <guid>https://turcuciprian.github.io/1-test/posts/test_____.html</guid>
       <description> Here is a content example  list element2 list element3  </description>
     </item>
     
     <item>
-      <title>test</title>
-      <link>http:/posts/test.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>ssss</title>
+      <link>https://turcuciprian.github.io/1-test/posts/ssss.html</link>
+      <pubDate>Fri, 25 Jan 2019 18:23:39 +0000</pubDate>
       
-      <guid>http:/posts/test.html</guid>
+      <guid>https://turcuciprian.github.io/1-test/posts/ssss.html</guid>
       <description> Here is a content example  list element2 list element3  </description>
     </item>
     
